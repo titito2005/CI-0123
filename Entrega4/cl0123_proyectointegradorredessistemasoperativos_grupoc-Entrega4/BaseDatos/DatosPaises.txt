@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Sat, 05 Dec 2020 03:26:59 GMT
+Server: Apache
+Content-length: 666
+Content-Type: text/html; charset=UTF-8
+
+<HTML><TITLE>Corona virus </TITLE>
+<TABLE BORDER=1>
+<TR> <TH> Country </TH>
+ <TH> Total Cases </TH> <TH> New Cases </TH> <TH> Total Deaths </TH> <TH> New Deaths </TH> <TH> Total Recovered </TH> <TH> New Recovered </TH> <TH> Active Cases </TH> <TH> Serious Critical </TH> <TH> Total Cases/1M </TH> <TH> Deaths/1M </TH> <TH> Total tests </TH> <TH> Tests/1M </TH> <TH> Population </TH> </TR>
+<TR><TD bgcolor=lightblue> San Marino </TD> <TD> 1,756 </TD> <TD> +42 </TD> <TD> 47  </TD> <TD> +1 </TD> <TD> 1,381 </TD> <TD> +25 </TD> <TD> 328 </TD> <TD> 8 </TD> <TD>51,706 </TD> <TD> 1,384 </TD> <TD> 18,682 </TD> <TD> 550,102 </TD> <TD> 33,961  </TD> </TR>
+</TABLE>
+</HTML>
+/TABLE>
+</HTML>
+LE>
+

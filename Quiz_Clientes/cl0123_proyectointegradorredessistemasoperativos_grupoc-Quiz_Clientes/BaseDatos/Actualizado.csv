@@ -1,0 +1,84 @@
+11_05
+Código Provincia, Provincia, Código Cantón, Cantón, Positivos, Activos, Recuperados, Fallecidos
+1,San José,112,Acosta,597,111,484,2
+1,San José,110,Alajuelita,4708,1387,3268,53
+1,San José,106,Aserrí,1415,732,668,15
+1,San José,118,Curridabat,2589,503,2049,37
+1,San José,103,Desamparados,7631,4048,3461,122
+1,San José,117,Dota,19,4,15,0
+1,San José,102,Escazú,1753,276,1452,25
+1,San José,108,Goicoechea,3686,938,2685,63
+1,San José,120,León Cortés Castro,54,3,51,0
+1,San José,115,Montes de Oca,1101,201,887,13
+1,San José,107,Mora,749,171,568,10
+1,San José,114,Moravia,1141,194,933,14
+1,San José,119,Pérez Zeledón,724,494,224,6
+1,San José,104,Puriscal,563,88,468,7
+1,San José,101,San José,17751,3276,14215,260
+1,San José,109,Santa Ana,1878,452,1405,21
+1,San José,105,Tarrazú,59,6,51,2
+1,San José,113,Tibás,2473,1244,1179,50
+1,San José,116,Turrubares,78,25,53,0
+1,San José,111,Vázquez de Coronado,1587,397,1162,28
+2,Alajuela,201,Alajuela,8777,5272,3394,111
+2,Alajuela,205,Atenas,461,305,153,3
+2,Alajuela,203,Grecia,1180,807,352,21
+2,Alajuela,215,Guatuso,338,114,221,3
+2,Alajuela,214,Los Chiles,439,43,388,8
+2,Alajuela,206,Naranjo,1010,632,368,10
+2,Alajuela,209,Orotina,395,109,281,5
+2,Alajuela,207,Palmares,687,449,231,7
+2,Alajuela,208,Poás,658,140,511,7
+2,Alajuela,216,Río Cuarto,389,282,106,1
+2,Alajuela,210,San Carlos,4428,1612,2783,33
+2,Alajuela,204,San Mateo,51,13,37,1
+2,Alajuela,202,San Ramón,1285,783,491,11
+2,Alajuela,212,Sarchí,274,218,56,0
+2,Alajuela,213,Upala,411,103,303,5
+2,Alajuela,211,Zarcero,315,267,47,1
+3,Cartago,306,Alvarado,134,43,89,2
+3,Cartago,301,Cartago,2332,1139,1169,24
+3,Cartago,308,El Guarco,699,435,257,7
+3,Cartago,304,Jiménez,120,31,88,1
+3,Cartago,303,La Unión,2801,1251,1513,37
+3,Cartago,307,Oreamuno,993,330,657,6
+3,Cartago,302,Paraíso,552,130,414,8
+3,Cartago,305,Turrialba,350,94,251,5
+4,Heredia,402,Barva,1047,254,783,10
+4,Heredia,407,Belén,668,142,521,5
+4,Heredia,408,Flores,649,164,481,4
+4,Heredia,401,Heredia,4616,1829,2718,69
+4,Heredia,406,San Isidro,652,209,430,13
+4,Heredia,409,San Pablo,805,262,531,12
+4,Heredia,405,San Rafael,1298,318,966,14
+4,Heredia,404,Santa Barbara,852,373,475,4
+4,Heredia,403,Santo Domingo,1362,646,702,14
+4,Heredia,410,Sarapiquí,970,392,572,6
+5,Guanacaste,507,Abangares,248,85,163,0
+5,Guanacaste,504,Bagaces,192,44,147,1
+5,Guanacaste,506,Cañas,443,95,345,3
+5,Guanacaste,505,Carillo,284,94,187,3
+5,Guanacaste,511,Hojancha,105,14,90,1
+5,Guanacaste,510,La Cruz,360,80,277,3
+5,Guanacaste,501,Liberia,1095,846,245,4
+5,Guanacaste,509,Nandayure,83,19,60,4
+5,Guanacaste,502,Nicoya,818,195,608,15
+5,Guanacaste,503,Santa Cruz,810,438,367,5
+5,Guanacaste,508,Tilarán,177,37,137,3
+6,Puntarenas,603,Buenos Aires,300,249,43,8
+6,Puntarenas,610,Corredores,1145,422,712,11
+6,Puntarenas,608,Coto Brus,188,111,72,5
+6,Puntarenas,602,Esparza,680,188,483,9
+6,Puntarenas,611,Garabito,692,353,331,8
+6,Puntarenas,607,Golfito,431,185,244,2
+6,Puntarenas,604,Montes de Oro,371,195,170,6
+6,Puntarenas,605,Osa,343,125,204,14
+6,Puntarenas,609,Parrita,243,43,197,3
+6,Puntarenas,601,Puntarenas,3578,1656,1875,47
+6,Puntarenas,606,Quepos,549,161,380,8
+7,Limón,706,Guácimo,605,228,371,6
+7,Limón,701,Limón,2787,712,2050,25
+7,Limón,705,Matina,693,344,343,6
+7,Limón,702,Pococí,1788,838,934,16
+7,Limón,703,Siquirres,1159,265,883,11
+7,Limón,704,Talamanca,1047,880,146,21

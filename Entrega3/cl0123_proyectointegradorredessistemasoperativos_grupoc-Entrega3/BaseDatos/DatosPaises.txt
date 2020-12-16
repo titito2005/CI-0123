@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Fri, 06 Nov 2020 04:34:12 GMT
+Server: Apache
+Content-length: 667
+Content-Type: text/html; charset=UTF-8
+
+<HTML><TITLE>Corona virus </TITLE>
+<TABLE BORDER=1>
+<TR> <TH> Country </TH>
+ <TH> Total Cases </TH> <TH> New Cases </TH> <TH> Total Deaths </TH> <TH> New Deaths </TH> <TH> Total Recovered </TH> <TH> New Recovered </TH> <TH> Active Cases </TH> <TH> Serious Critical </TH> <TH> Total Cases/1M </TH> <TH> Deaths/1M </TH> <TH> Total tests </TH> <TH> Tests/1M </TH> <TH> Population </TH> </TR>
+<TR><TD bgcolor=lightblue> Peru </TD> <TD> 911,787 </TD> <TD>  </TD> <TD> 34,671  </TD> <TD>  </TD> <TD> 835,694 </TD> <TD>  </TD> <TD> 41,422 </TD> <TD> 1,037 </TD> <TD>27,522 </TD> <TD> 1,047 </TD> <TD> 4,591,407 </TD> <TD> 138,591 </TD> <TD> 33,129,291  </TD> </TR>
+</TABLE>
+
+R>
+</TABLE>
+
+ABLE>
+

@@ -1,0 +1,83 @@
+Acosta,Acosta
+Alajuelita,Alajuelita
+Aserri,Aserrí
+Curridabat,Curridabat
+Desamparados,Desamparados
+Dota,Dota
+Escazu,Escazú
+Goicoechea,Goicoechea
+Leon Cortes Castro,León Cortés Castro
+Montes de Oca,Montes de Oca
+Mora,Mora
+Moravia,Moravia
+Perez Zeledon,Pérez Zeledón
+Puriscal,Puriscal
+San Jose,San José
+Santa Ana,Santa Ana
+Tarrazu,Tarrazú
+Tibas,Tibás
+Turrubares,Turrubares
+Vazquez de Coronado,Vázquez de Coronado
+Alajuela,Alajuela
+Atenas,Atenas
+Grecia,Grecia
+Guatuso,Guatuso
+Los Chiles,Los Chiles
+Naranjo,Naranjo
+Orotina,Orotina
+Palmares,Palmares
+Poas,Poás
+Rio Cuarto,Río Cuarto
+San Carlos,San Carlos
+San Mateo,San Mateo
+San Ramon,San Ramón
+Sarchi,Sarchí
+Upala,Upala
+Zarcero,Zarcero
+Alvarado,Alvarado
+Cartago,Cartago
+El Guarco,El Guarco
+Jimenez,Jiménez
+La Union,La Unión
+Oreamuno,Oreamuno
+Paraiso,Paraíso
+Turrialba,Turrialba
+Barva,Barva
+Belen,Belén
+Flores,Flores
+Heredia,Heredia
+San Isidro,San Isidro
+San Pablo,San Pablo
+San Rafael,San Rafael
+Santa Barbara,Santa Barbara
+Santo Domingo,Santo Domingo
+Sarapiqui,Sarapiquí
+Abangares,Abangares
+Bagaces,Bagaces
+Cañas,Cañas
+Carillo,Carillo
+Hojancha,Hojancha
+La Cruz,La Cruz
+Liberia,Liberia
+Nandayure,Nandayure
+Nicoya,Nicoya
+Santa Cruz,Santa Cruz
+Tilaran,Tilarán
+Buenos Aires,Buenos Aires
+Corredores,Corredores
+Coto Brus,Coto Brus
+Esparza,Esparza
+Garabito,Garabito
+Golfito,Golfito
+Montes de Oro,Montes de Oro
+Osa,Osa
+Parrita,Parrita
+Puntarenas,Puntarenas
+Quepos,Quepos
+Guacimo,Guácimo
+Limon,Limón
+Matina,Matina
+Pococi,Pococí
+Siquirres,Siquirres
+Talamanca,Talamanca
+Otro,Otros

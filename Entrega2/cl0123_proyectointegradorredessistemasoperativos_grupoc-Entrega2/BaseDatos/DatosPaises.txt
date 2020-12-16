@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Sat, 10 Oct 2020 05:20:56 GMT
+Server: Apache
+Content-length: 675
+Content-Type: text/html; charset=UTF-8
+
+<HTML><TITLE>Corona virus </TITLE>
+<TABLE BORDER=1>
+<TR> <TH> Country </TH>
+ <TH> Total Cases </TH> <TH> New Cases </TH> <TH> Total Deaths </TH> <TH> New Deaths </TH> <TH> Total Recovered </TH> <TH> New Recovered </TH> <TH> Active Cases </TH> <TH> Serious Critical </TH> <TH> Total Cases/1M </TH> <TH> Deaths/1M </TH> <TH> Total tests </TH> <TH> Tests/1M </TH> <TH> Population </TH> </TR>
+<TR><TD bgcolor=lightblue> Costa Rica </TD> <TD> 86,053 </TD> <TD> +1,225 </TD> <TD> 1,055  </TD> <TD> +15 </TD> <TD> 52,327 </TD> <TD> +545 </TD> <TD> 32,671 </TD> <TD> 197 </TD> <TD>16,851 </TD> <TD> 207 </TD> <TD> 251,285 </TD> <TD> 49,207 </TD> <TD> 5,106,729  </TD> </TR>
+</TABLE>
+

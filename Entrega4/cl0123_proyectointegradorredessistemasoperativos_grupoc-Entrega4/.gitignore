@@ -1,0 +1,8 @@
+#Gitignore file
+
+#Files
+obj/
+
+# misc
+.DS_Store
+src/programa
